@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I'm Full Stack developer.
+- 🌱 I'm a final year student of Computer Science.
 - 🔭 Currently working on two diffrent open source projects.
-- 🌱 Learning DevOps but open to explore other fields.
+- 🌱 Learning DevOps/Cloud/Web-Development everyday but open to explore other fields.
 - 👯 Looking to collaborate on cool Open source projects.
 - 😄 If you have any project related idea then come up to me, will be glad to collaborate with you.
 <!--
